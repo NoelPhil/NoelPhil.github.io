@@ -43,7 +43,7 @@ ul li a:hover {
     background: #fff;
     padding: 0.5rem;
 }
-}
+
 div.hero-section {
     background: #304353;
     padding: 10rem;
@@ -120,7 +120,6 @@ div.background p {
 }
 
 div.hero-background-pos {
-    display: none;
     position: absolute;
     right: 0px;
     left: 66%;
